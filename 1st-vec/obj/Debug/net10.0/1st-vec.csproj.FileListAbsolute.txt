@@ -1,0 +1,15 @@
+D:\Github-repos\Csharp-basics\1st-vec\bin\Debug\net10.0\1st-vec.exe
+D:\Github-repos\Csharp-basics\1st-vec\bin\Debug\net10.0\1st-vec.deps.json
+D:\Github-repos\Csharp-basics\1st-vec\bin\Debug\net10.0\1st-vec.runtimeconfig.json
+D:\Github-repos\Csharp-basics\1st-vec\bin\Debug\net10.0\1st-vec.dll
+D:\Github-repos\Csharp-basics\1st-vec\bin\Debug\net10.0\1st-vec.pdb
+D:\Github-repos\Csharp-basics\1st-vec\obj\Debug\net10.0\1st-vec.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github-repos\Csharp-basics\1st-vec\obj\Debug\net10.0\1st-vec.AssemblyInfoInputs.cache
+D:\Github-repos\Csharp-basics\1st-vec\obj\Debug\net10.0\1st-vec.AssemblyInfo.cs
+D:\Github-repos\Csharp-basics\1st-vec\obj\Debug\net10.0\1st-vec.csproj.CoreCompileInputs.cache
+D:\Github-repos\Csharp-basics\1st-vec\obj\Debug\net10.0\1st-vec.sourcelink.json
+D:\Github-repos\Csharp-basics\1st-vec\obj\Debug\net10.0\1st-vec.dll
+D:\Github-repos\Csharp-basics\1st-vec\obj\Debug\net10.0\refint\1st-vec.dll
+D:\Github-repos\Csharp-basics\1st-vec\obj\Debug\net10.0\1st-vec.pdb
+D:\Github-repos\Csharp-basics\1st-vec\obj\Debug\net10.0\1st-vec.genruntimeconfig.cache
+D:\Github-repos\Csharp-basics\1st-vec\obj\Debug\net10.0\ref\1st-vec.dll
