@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("1st-vec")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4dc7466d463ebeafd8b16e5d8fae6eece0862b1c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4c157c6bf9edaf4fe30ba56d05f89d418ec8b90")]
 [assembly: System.Reflection.AssemblyProductAttribute("1st-vec")]
 [assembly: System.Reflection.AssemblyTitleAttribute("1st-vec")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
